@@ -13,3 +13,7 @@ Required Libraries
 
 Key retrieval
 -
+- Enter the Site
+- https://openweathermap.org/
+
+- 
