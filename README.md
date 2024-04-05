@@ -1,1 +1,12 @@
-# Weather-App
+- Weather Application Made with Python
+- 
+- API
+- Open Weather
+- 
+Required Libraries
+-
+- tkinter
+- requests
+- 
+- 
+- Use Your Own Key If You Want, But I Gave You My Own Key, You Can Continue Using It
