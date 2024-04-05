@@ -16,4 +16,8 @@ Key retrieval
 - Enter the Site
 - https://openweathermap.org/
 
-- 
+- Register to the Site
+
+- Get Into My Keys
+- Copy Your Key
+- Enter api_key on line 6
